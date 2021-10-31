@@ -17,7 +17,7 @@ const Container = () => {
   };
 
   return (
-    <div className="fluid-container d-flex justify-content-center row">
+    <div className="fluid-container d-flex justify-content-center row gx-0 mb-5">
       <div className="mt-5 col-sm-12 col-md-6 col-lg-4 mx-auto">
         <h1 className="text-center display-3 pb-2 text-info">ToDo List</h1>
 
